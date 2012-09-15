@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.6'
+gem 'ember-rails'
 gem 'jquery-rails'
 
 group :assets do
